@@ -2,10 +2,6 @@
 iOS Interview Questions and Answers <details>
   <summary><strong>Classes vs. Structs</strong></summary>
   <br> 
-YouTube
-
-IMAGE ALT TEXT HERE
-Script
 Q: What is the difference between a class and a struct in Swift?
 
 A: The main difference is that classes are reference types and structs are value types.
