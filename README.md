@@ -1,7 +1,6 @@
 # iOSInterviewPreparation
 iOS Interview Questions and Answers <details>
   <summary><strong>Classes vs. Structs</strong></summary>
-  <br> 
 Q: What is the difference between a class and a struct in Swift?
 
 A: The main difference is that classes are reference types and structs are value types.
@@ -16,11 +15,7 @@ Other differences are: classes have inheritance, type casting, & de-initializers
 </details>
 <details>
   <summary><strong>ARC, Retain Cycles, & Memory Leaks</strong></summary>
-  <br> 
-YouTube
-
-IMAGE ALT TEXT HERE
-Script
+	
 Q: How is memory management handled in iOS?
 
 A: Swift uses Automatic Reference Counting to handle memory management.
@@ -50,9 +45,7 @@ If the memory usage keeps increasing and never decreases then that’s an indica
 </details>
 <details>
   <summary><strong>Observer & Delegation</strong></summary>
-  <br>
-  Work in-progress<br> 
-Script
+
 Q: What is the Delegation Design Pattern?
 
 A: The delegation design pattern enables an object to delegate some of its responsibilities to another object. The delegating object typically keeps a reference to the other object.
